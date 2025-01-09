@@ -4,17 +4,17 @@
 ## Current Technologies
 <a href="https://react.dev" target="_blank">
     <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg"
     />
 </a>
 <a href="https://www.typescriptlang.org" target="_blank">
     <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg"
     />
 </a>
 <a href="https://www.python.org" target="_blank">
     <img 
-        src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
     />
 </a>
 
@@ -22,5 +22,5 @@
 ### Feel free to contact me via alternyxx@gmail.com
 
 <p align="center">
-    <img src="https://tenor.com/view/shy-menhera-gif-19625880" />
+    <img src="/assets/shy-menhera.gif" />
 </p>
