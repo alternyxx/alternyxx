@@ -4,9 +4,11 @@
         width="32px" 
         height="36px" 
     />
+    <span>
     <h1 style="margin-left: 15px">
         alternyxx
     </h1>
+    </span>
 </div>
 
 <h2>
