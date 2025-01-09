@@ -2,8 +2,8 @@
 
 <div>
     <h3>
-        A 15 year old w/ way too much...<br>
-        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br>
+        A 15 year old w/ way too much time...<br>
+        Personal website at <a href="https://alternyxx.com">alternyxx.com</a>
     </h3>
     <p align="right">
         <img 
@@ -37,5 +37,5 @@
 
 ## Contacts
 ### Feel free to contact me via alternyxx@gmail.com
-<br>
-<img src="/assets/menhera-hearts.gif" width="300px" height="300px" />
+<br><br><br>
+<img src="/assets/menhera-hearts.gif" width="250px" height="250px" />
