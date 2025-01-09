@@ -4,14 +4,14 @@
     <p align="right">
         <img 
             src="/assets/menhera-wave.gif" 
-            width="131px"
-            height="100px"
-            style="position: absolute; margin-top: -25px; margin-right: 25px"
+            width="262px"
+            height="200px"
+            style="position: absolute;"
         />
     </p>
-    <h2 style="margin-top: 50px; padding-bottom: 50px">
+    <h2>
         A 15 year old w/ way too much...<br>
-        Personal website at [alternyxx.com](https://alternyxx.com)<br><br><br>
+        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br><br><br>
     </h2>
 </div>
 
