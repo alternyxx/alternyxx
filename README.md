@@ -38,4 +38,4 @@
 ## Contacts
 ### Feel free to contact me via alternyxx@gmail.com
 
-<img src="/assets/shy-menhera-hearts.gif" width="300px" height="300px" />
+<img src="/assets/menhera-hearts.gif" width="300px" height="300px" />
