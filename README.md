@@ -1,18 +1,17 @@
 # ![blahaj](/assets/subpfp.png) alternyxx
 
 <div>
+    <h3>
+        A 15 year old w/ way too much...<br>
+        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br><br><br>
+    </h3>
     <p align="right">
         <img 
             src="/assets/menhera-wave.gif" 
             width="262px"
             height="200px"
-            style="position: absolute;"
         />
     </p>
-    <h2>
-        A 15 year old w/ way too much...<br>
-        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br><br><br>
-    </h2>
 </div>
 
 ## Current Technologies
@@ -34,8 +33,9 @@
         width="40" height="40"
     />
 </a>
+<br><br><br>
 
 ## Contacts
 ### Feel free to contact me via alternyxx@gmail.com
-
+<br>
 <img src="/assets/menhera-hearts.gif" width="300px" height="300px" />
