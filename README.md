@@ -4,10 +4,9 @@
     <p align="right">
         <img 
             src="/assets/menhera-wave.gif" 
-            width="100px"
+            width="81px"
             height="100px"
-            align="right"
-            style="position: absolute; margin-top: -25px"
+            style="position: absolute; margin-top: -25px; margin-right: 25px"
         />
     </p>
     <h2 style="margin-top: 50px; padding-bottom: 50px">
