@@ -3,7 +3,7 @@
 <div>
     <h3>
         A 15 year old w/ way too much...<br>
-        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br><br><br>
+        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br>
     </h3>
     <p align="right">
         <img 
@@ -33,7 +33,7 @@
         width="40" height="40"
     />
 </a>
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## Contacts
 ### Feel free to contact me via alternyxx@gmail.com
