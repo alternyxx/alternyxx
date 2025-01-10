@@ -3,7 +3,6 @@
 <div>
     <h3>
         A 15 year old w/ way too much time...<br>
-        Personal website at <a href="https://alternyxx.com">alternyxx.com</a><br>
     </h3>
     <p align="right">
         <img 
