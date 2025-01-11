@@ -15,7 +15,7 @@
 
 ## Personal website
 ### If you're more interested in a more professional and detailed description and find out what I'm doing, visit [alternyxx.com](https://alternyxx.com)<br><br>
-![A picture of the website](/assets/alternyxx.png)<br><br>
+![A picture of the website](/assets/alternyxx.png#gh-dark-mode-only)![A picture of the website](/assets/alternyxxDark.png#gh-light-mode-only)<br><br>
 
 ## Current Technologies
 <a href="https://nextjs.org/" target="_blank">
