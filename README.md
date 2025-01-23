@@ -1,6 +1,6 @@
 # ![blahaj](/assets/subpfp.png) alternyxx
 
-<div>
+<!-- <div>
     <h3>
         A 15 year old w/ way too much time...<br>
     </h3>
@@ -11,11 +11,16 @@
             height="200px"
         />
     </p>
-</div>
+</div> -->
+
+<img align="right" alt="Helooo" src="https://media.tenor.com/FMR75MjeyWsAAAAi/deredere-anime.gif" width="200px"/>
+
+A 15 year old w/ way too much time...<br>
+
 
 ## Personal website
-### If you're more interested in a more professional and detailed description and find out what I'm doing, visit [alternyxx.com](https://alternyxx.com)<br><br>
-![A picture of the website](/assets/alternyxx.png#gh-dark-mode-only)![A picture of the website](/assets/alternyxxDark.png#gh-light-mode-only)<br><br>
+ If you're more interested in a more professional and detailed description and find out what I'm doing, visit [alternyxx.com](https://alternyxx.com)<br><br>
+![A picture of the website](https://static.alternyxx.com/gif/darkalternyxx.gif#gh-dark-mode-only)![A picture of the website](https://static.alternyxx.com/gif/lightalternyxx.gif#gh-light-mode-only)<br><br>
 
 ## Current Technologies
 <a href="https://nextjs.org/" target="_blank">
@@ -70,6 +75,6 @@
 <br><br><br><br><br>
 
 ## Contacts
-### Feel free to contact me via alternyxx@gmail.com
+Feel free to contact me via any alternyxx@gmail.com
 <br><br><br>
 <img src="/assets/menhera-hearts.gif" width="250px" height="250px" />
