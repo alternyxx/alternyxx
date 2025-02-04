@@ -30,6 +30,12 @@
         width="40" height="40"
     />
 </a>
+<a href="https://tailwindcss.com" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg"
+        width="40" height="40"
+    />
+</a>
 <a href="https://www.figma.com/" target="_blank">
     <img 
         src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/figma/figma-original.svg"
