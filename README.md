@@ -7,6 +7,7 @@
     <p align="right">
         <img 
             src="/assets/menhera-wave.gif" 
+            alt="Menhera Wave"
             width="262px"
             height="200px"
         />
@@ -78,4 +79,9 @@
 ## Contacts
 ### Feel free to contact me via any alternyxx@gmail.com
 <br><br><br>
-<img src="/assets/menhera-hearts.gif" width="250px" height="250px" />
+<img 
+    src="/assets/menhera-hearts.gif" 
+    alt="Thanks for reading! <3" 
+    width="250px" 
+    height="250px" 
+/>
